@@ -24,7 +24,7 @@ A Minecraft 1.21.1 Fabric mod that allows you to forge payment messages on Donut
    - Type the **Username** and **Amount** into the dark boxes.
 3. **Select Mode:**
    - **YOU PAID / PAID YOU:** Select one of these and press **`Alt + B`** in-game to instantly send the forged message to your chat.
-   - ** /PAY:** Toggle this mode to intercept the `/pay <user> <amount>` command. When active, typing the command in chat will play a "ding" sound and show the fake message instead of sending money.
+   - **/PAY:** Toggle this mode to intercept the `/pay <user> <amount>` command. When active, typing the command in chat will play a "ding" sound and show the fake message instead of sending money.
 
 ##  Credits
 
